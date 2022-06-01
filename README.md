@@ -1,6 +1,7 @@
 # National Intelligence for Skills, Education, Employment and Entrepreneurship (NISE)
 
 - [What is NISE?](#what-is-nise)
+- [Objectives of NISE](#objectives-of-nise)
 - [Features](#features)
 - [Coding Conventions](#coding-conventions)
 - [Technologies](#technologies)
@@ -49,11 +50,19 @@ So, to matchmake between the supply side and demand side stakeholders through re
 
 - 4IR dashboard in this platform makes monitoring and evaluating the progress of 4IR initiatives by different industries much easier. From this dashboard the industries and entrepreneurs get data about emerging job opportunities and replenishing jobs due to the imminent Fourth Industrial Revolution. Using this data, they can make better decisions regarding their business plans.
 
+![](assets/images/common/nise.png)
 
 NISE, with all the diversified features for different stakeholders, is playing an impactful role in closing the gap between supply and demand sides of skills, education, employment, entrepreneurship and thereby contributing to effective implementation of ‘Vision 2041’. 
 
 
 NISE won the world’s most prestigious ICT Award called the “World Summit on the Information Society (WSIS) Champion 2020” in the "e-Employment” category by the International Telecommunication Union (ITU). NISE has also been declared as a global best practice by the UNDP Chief Digital Office (CDO) in New York. NISE is already being replicated in Jordan by the Ministry of Digital Economy and Entrepreneurship (MODEE) with the support of UNDP Jordan and the UNDP Crisis Bureau Office in New York. This initiative is also being replicated in Somalia by the Ministry of Communications and Technology with the support of UNDP Somalia and the Chief Digital Office in New York.
+
+<br>
+<br>
+
+# Objectives of NISE
+
+![](assets/images/common/nise-objective.png)
 
 
 # Features
