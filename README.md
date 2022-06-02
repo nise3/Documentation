@@ -210,19 +210,6 @@ Overall we take a practical approach to code conventions, trying to adhere to th
 
 ## Hardware Requirement
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid black;
-    padding-left: 10px;
-}
-</style>
-
 
 | Component             | No of VMs      | Configuration                | Storage       |
 | -------------         | ---------      | -------------                | -------       |
